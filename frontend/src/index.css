@@ -1,0 +1,12 @@
+body {
+	background-color: rgb(15, 14, 14);
+}
+
+* {
+	/* font-family: 'Noto Sans JP' !important; */
+	font-family: "Heebo", sans-serif !important;
+}
+
+.MuiOutlinedInput-root {
+	border-radius: 20px !important;
+}
